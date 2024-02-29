@@ -1,0 +1,26 @@
+{
+  "name": "zen-football-leagues",
+  "version": "1.0.1",
+  "description": "A Node.js library for managing football leagues.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zenzenqazzaq/zen-football-leagues.git"
+  },
+  "keywords": [
+    "zen-football-leagues"
+  ],
+  "author": "zenzenqazzaq",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zenzenqazzaq/zen-football-leagues/issues"
+  },
+  "homepage": "https://github.com/zenzenqazzaq/zen-football-leagues#readme",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "dotenv": "^16.4.5"
+  }
+}
