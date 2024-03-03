@@ -21,6 +21,7 @@
   "homepage": "https://github.com/zenzenqazzaq/zen-football-leagues#readme",
   "dependencies": {
     "axios": "^1.6.7",
-    "dotenv": "^16.4.5"
+    "dotenv": "^16.4.5",
+    "zen-round-number": "1.0.0"
   }
 }
