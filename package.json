@@ -1,6 +1,6 @@
 {
   "name": "zen-football-leagues",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Node.js library for managing football leagues.",
   "main": "src/index.js",
   "scripts": {
